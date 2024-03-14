@@ -1,22 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asra Fatima
 ===================================================================================================================================
 
-I am a Data Analyst
+Data Analyst
 -------------------
 
-I am Working as a Data Analyst in E-Commerce Company, I've been learning this programming from past 2 years. Very much interested in Data Science
+I am working as a Data Analyst at QNL LLC. Enthusiastic data professional eager to deep dive into the world of data.
 
-* 🌍  I'm based in india
+* 🌍  Residing in Canada
 * ✉️  You can contact me at [asrafatima93@gmail.com](mailto:asrafatima93@gmail.com)
 * 🧠  I'm learning Data Science
-* 🤝  I'm open to collaborating on Data Analyst, Machine Learning, NLP and Deep Learning
+* 🤝  I'm open to Data Analyst , Business Analyst , Data Science roles.
 
 <a href="https://www.github.com/AsraFatima123" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AsraFatima123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/AsraFatima123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/asra-fatima-5b5ab8a7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/AsraFatima123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/asrafatima/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
