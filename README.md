@@ -1,15 +1,13 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Im Asra Fatima
+Hi!Im Asra Fatima
 ===================================================================================================================================
-
 Data Analyst
 -------------------
-
-I am working as a Data Analyst at QNL LLC. Enthusiastic data professional eager to deep dive into the world of data.
+Currently working as a Data Analyst at QNL LLC. Result-oriented data professional eager to deep dive into the world of data.
 
 * 🌍  Residing in Canada
 * ✉️  You can contact me at [asrafatima93@gmail.com](mailto:asrafatima93@gmail.com)
-* 🧠  I'm learning Data Science
-* 🤝  I'm open to Data Analyst , Business Analyst , Data Science roles.
+* 🧠  Enthusiastic Data Science Learner
+* 🤝  I'm open to Data Analyst | Business Analyst | Data Science roles.
 
 <a href="https://www.github.com/AsraFatima123" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AsraFatima123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
