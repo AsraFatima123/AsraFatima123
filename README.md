@@ -1,8 +1,8 @@
 Hi! Im Asra Fatima
 ===================================================================================================================================
-Data Analyst
+Data Analyst | BI Developer
 -------------------
-Currently working as a Data Analyst at QNL LLC. Result-oriented data professional eager to deep dive into the world of data.
+Result-oriented data professional eager to deep dive into the world of data.
 
 * 🌍  Residing in Canada
 * ✉️  You can contact me at [asrafatima93@gmail.com](mailto:asrafatima93@gmail.com)
